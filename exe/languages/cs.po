@@ -45,10 +45,10 @@ msgstr ""
 "opravit data fotografií a videí."
 
 msgid "After"
-msgstr "Potom"
+msgstr "Po"
 
 msgid "Album Artist"
-msgstr "Umělec"
+msgstr "Interpret alba"
 
 msgid "Analyzing..."
 msgstr "Probíhá analýza..."
@@ -60,7 +60,7 @@ msgid "archives"
 msgstr "archiv"
 
 msgid "Ask the Diffractor team a question."
-msgstr "Zeptejte se týmu Diffractor otázku."
+msgstr "Zeptejte se týmu Diffractor na otázku."
 
 msgid "audio"
 msgstr "zvuk"
@@ -69,10 +69,10 @@ msgid "Audio"
 msgstr "Zvuk"
 
 msgid "Diffractor has been authorized"
-msgstr "Difraktor byl schválen"
+msgstr "Diffractor byl autorizován"
 
 msgid "Before"
-msgstr "Předtim"
+msgstr "Předtím"
 
 msgid "Brightness"
 msgstr "Jas"
@@ -260,7 +260,7 @@ msgid "More information about metadata templates."
 msgstr "Další informace o šablonách metadat."
 
 msgid "Music"
-msgstr "Muzikál"
+msgstr "Hudba"
 
 msgid "Local OneDrive Folder"
 msgstr "Místní složka OneDrive"
@@ -2595,7 +2595,7 @@ msgid "Album artist"
 msgstr "Umělec alba"
 
 msgid "Artist"
-msgstr "Umělec"
+msgstr "Interpret"
 
 msgid "Audio codec"
 msgstr "Zvukový kodek"
@@ -2670,13 +2670,13 @@ msgid "Episode"
 msgstr "Epizoda"
 
 msgid "Exposure"
-msgstr "Vystavení"
+msgstr "Expozice"
 
 msgid "Filename"
 msgstr "Název souboru"
 
 msgid "FNumber"
-msgstr "FNčíslo"
+msgstr "Clonové číslo"
 
 msgid "Focal length"
 msgstr "Ohnisková vzdálenost"
@@ -2697,7 +2697,7 @@ msgid "Latitude"
 msgstr "Zeměpisná šířka"
 
 msgid "Lens"
-msgstr "Čočka"
+msgstr "Objektiv"
 
 msgid "Longitude"
 msgstr "Zeměpisná délka"
@@ -2718,7 +2718,7 @@ msgid "Orientation"
 msgstr "Orientace"
 
 msgid "Performer"
-msgstr "Umělec"
+msgstr "Účinkující"
 
 msgid "Pixel format"
 msgstr "Formát pixelů"
@@ -2926,10 +2926,10 @@ msgid "Search in the collection"
 msgstr "Hledejte ve sbírce"
 
 msgid "From"
-msgstr "Z"
+msgstr "Od"
 
 msgid "Until"
-msgstr "Až"
+msgstr "Do"
 
 msgid "Search in a folder"
 msgstr "Hledejte ve složce"
@@ -3129,7 +3129,7 @@ msgid "Reset color adjustments"
 msgstr "Resetovat úpravy barev"
 
 msgid "Color, straighten or crop photos."
-msgstr "Vybarvěte, narovnejte nebo ořízněte fotografie."
+msgstr "Upravte barvy, narovnejte nebo ořízněte fotografie."
 
 msgid "Add and edit metadata."
 msgstr "Přidejte a upravte metadata."
@@ -3425,9 +3425,9 @@ msgstr[2] "{count} duplicitních položek"
 
 msgid "1 sidecar item"
 msgid_plural "{count} sidecar items"
-msgstr[0] "1 kus postranního vozíku"
-msgstr[1] "{count} položek postranního vozíku"
-msgstr[2] "{count} položek postranního vozíku"
+msgstr[0] "1 vedlejší soubor"
+msgstr[1] "{count} vedlejší soubory"
+msgstr[2] "{count} vedlejších souborů"
 
 msgid "{count} of 1 item was processed."
 msgid_plural "{count} of {total} items were processed."
